@@ -6,7 +6,7 @@ Built for the **SILQ SDE** evaluation.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer     | Technology                              |
 |-----------|----------------------------------------|
